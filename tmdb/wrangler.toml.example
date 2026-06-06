@@ -1,0 +1,8 @@
+name = "tmdb-proxy"
+
+[[kv_namespaces]]
+binding = "TMDB_CACHE"
+id = "YOUR_KV_ID"
+
+[vars]
+TMDB_KEYS = "key1,key2,key3"
